@@ -22,3 +22,5 @@ This is a simple web-based guessing game where the player tries to guess the cor
 
    ```bash
    git clone https://github.com/your-username/guessing-game.git
+
+   ![image](https://github.com/TanuSharma0802/Guessing-Number-Game/assets/126508233/fd33402a-bc05-47a2-bf06-b6f246579c9e)
